@@ -1,6 +1,6 @@
-# :zap: :computer: :zap: Tri-Co Hackathon 2022 :zap: :computer: :zap:
+# :zap: :computer: :zap: Tri-Co Hackathon 2023 :zap: :computer: :zap:
 
-*This is a sample submission repository for Tri-Co Hackathon 2022. You can use this repo as a template for your repository, or add a ReadMe file with the following information.
+*This is a sample submission repository for Tri-Co Hackathon 2022. You can use this repo as a template for your repository, or create your own repo and add this README.md file with the following information about your team.
 
 ## Team Name
 
