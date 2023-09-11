@@ -1,6 +1,6 @@
 # :zap: :computer: :zap: Tri-Co Hackathon 2022 :zap: :computer: :zap:
 
-*This is a sample submission repository for Tri-Co Hackathon 2022. You can [fork this repo](https://help.github.com/articles/fork-a-repo/) and use this as a starting point.*
+*This is a sample submission repository for Tri-Co Hackathon 2022. You can use this repo as a template for your repository, or add a ReadMe file with the following information.
 
 ## Team Name
 
